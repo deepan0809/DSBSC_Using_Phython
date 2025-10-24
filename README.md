@@ -66,4 +66,6 @@ Tabular Column
 ![WhatsApp Image 2025-10-24 at 17 18 41_3106111b](https://github.com/user-attachments/assets/1a3af0df-bfb7-4f6b-9a08-95e062046edc)
 
 Result
+
+
 Thus the DSB-SC-AM Modulation and Demodulation is generated.
